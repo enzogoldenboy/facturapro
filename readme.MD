@@ -2,7 +2,7 @@
 
 Interface web complète pour créer, personnaliser et exporter des factures professionnelles — sans serveur, sans installation, 100% dans le navigateur.
 
----
+
 
 ## Fonctionnalités
 
